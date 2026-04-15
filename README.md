@@ -34,8 +34,6 @@
 
 ---
 
-## Enterprise Profile
-
 I build **scalable, production-ready systems** across web, mobile, and data with a focus on business operations, digital workflows, financial technology support, and decision-ready outputs.
 
 My work sits at the intersection of:
