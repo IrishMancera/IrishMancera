@@ -128,28 +128,10 @@ My work sits at the intersection of:
 ## Data & Analytics
 
 <p align="center">
-  <img src="./assets/powerbi.png" width="30%" alt="Power BI" />
-  <img src="./assets/tableau.png" width="30%" alt="Tableau" />
-  <img src="./assets/excel.png" width="30%" alt="Excel" />
-</p>
-
-<p align="center">
   <strong>KPI Dashboards • Automation Reports • Data Cleaning • Decision Support</strong>
 </p>
 
 I use analytics to turn raw information into structured outputs for reporting, monitoring, and operational visibility.
-
----
-
-## Monthly Development Activity
-
-<p align="center">
-  <img src="./assets/monthly-activity.png" width="85%" alt="Monthly Activity" />
-</p>
-
-<p align="center">
-  <sub>A portfolio-style monthly view of development activity, project progress, and technical focus.</sub>
-</p>
 
 ---
 
