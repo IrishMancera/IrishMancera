@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=1000&lines=Building+real-world+systems;Full+Stack+%7C+Data+%7C+Cloud;Automation+%7C+Analytics+%7C+SEO;Future+Game+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=1000&lines=Building+real-world+systems;Full+Stack+%7C+Data+%7C+Cloud;Automation+%7C+Analytics+%7C" />
 </p>
 
 <p align="center">
@@ -34,8 +34,6 @@
 I build **scalable, production-ready systems** across web, mobile, data, and automation — focused on real-world impact, structured workflows, and decision-ready outputs.
 
 ---
-
-## 🚀 Featured Systems (Visual Preview)
 
 <p align="center">
   <img src="./assets/drmm-preview.png" width="45%" />
