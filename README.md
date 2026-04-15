@@ -31,7 +31,7 @@
 
 ## Mancera's Profile
 
-I build **scalable, production-ready systems** across web, mobile, data, and automation — focused on real-world impact, structured workflows, and decision-ready outputs.
+I build **scalable, production-ready systems** across web, mobile and data focusing on business IIS, financial technology and decision-ready outputs.
 
 ---
 
