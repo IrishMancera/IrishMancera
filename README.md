@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner" />
+  <img src="./assets/animated_banner_ivm.gif" width="100%" alt="Irish V. Mancera Banner" />
 </p>
 
 <p align="center">
   <img src="./assets/profile.png" width="140" alt="Profile" />
 </p>
 
-<h1 align="center">Irish V. Mancera</h1>
 
 <p align="center">
   <strong>Full Stack Developer • Data &amp; Systems Analyst • Cloud • Automation • SEO Strategy • Future Game Developer</strong>
