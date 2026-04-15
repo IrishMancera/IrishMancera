@@ -85,13 +85,8 @@ I build **scalable, production-ready systems** across web, mobile, data, and aut
 
 ---
 
-## 📊 Data & Analytics
+## Data & Analytics
 
-<p align="center">
-  <img src="./assets/powerbi.png" width="30%" />
-  <img src="./assets/tableau.png" width="30%" />
-  <img src="./assets/excel.png" width="30%" />
-</p>
 
 ✔ KPI Dashboards
 ✔ Automation Reports
