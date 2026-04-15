@@ -98,15 +98,6 @@ I build **scalable, production-ready systems** across web, mobile, data, and aut
 ✔ Data Cleaning
 ✔ Decision Support
 
----
-
-## Monthly Development Activity
-
-<p align="center">
-  <img src="./assets/monthly-activity.png" width="85%" />
-</p>
-
----
 
 ## Tech Stack
 
@@ -128,9 +119,6 @@ I build **scalable, production-ready systems** across web, mobile, data, and aut
 <p align="center">
   <a href="./docs/resume.pdf">
     <img src="./assets/resume-preview.png" width="45%" />
-  </a>
-  <a href="./docs/certificate.pdf">
-    <img src="./assets/cert-preview.png" width="45%" />
   </a>
 </p>
 
