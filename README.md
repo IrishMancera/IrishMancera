@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/profile.png" width="180" alt="Irish V. Mancera Profile" />
+  <img src="./assets/profile.png" width="100%" alt="Irish V. Mancera Profile" />
 </p>
 
 <h1 align="center">Irish V. Mancera</h1>
