@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <strong>Full Stack Developer • Data &amp; Systems Analyst • Cloud • Automation • SEO Strategy • Future Game Developer</strong>
+  <strong>Full Stack Developer • Data &amp; Systems Analyst • SEO Strategy • </strong>
 </p>
 
 <p align="center">
