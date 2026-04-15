@@ -181,5 +181,5 @@ I build **scalable, production-ready systems** across web, mobile, data, and aut
 * Email: [irishmancera267@gmail.com](mailto:irishmancera267@gmail.com)
 
 <p align="center">
-  <img src="./assets/footer.png" width="100%" />
+  <img src="./assets/footer_glow_ivm.gif" width="100%" alt="Footer" />
 </p>
