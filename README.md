@@ -30,7 +30,7 @@
 
 ---
 
-## 🧠 Enterprise Profile
+## Mancera's Profile
 
 I build **scalable, production-ready systems** across web, mobile, data, and automation — focused on real-world impact, structured workflows, and decision-ready outputs.
 
@@ -50,7 +50,7 @@ I build **scalable, production-ready systems** across web, mobile, data, and aut
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### 🟢 Junior Software Engineer — Bicol University
 
@@ -103,7 +103,7 @@ I build **scalable, production-ready systems** across web, mobile, data, and aut
 
 ---
 
-## 📈 Monthly Development Activity
+## Monthly Development Activity
 
 <p align="center">
   <img src="./assets/monthly-activity.png" width="85%" />
@@ -111,7 +111,7 @@ I build **scalable, production-ready systems** across web, mobile, data, and aut
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-39FF14?style=for-the-badge" />
@@ -126,7 +126,7 @@ I build **scalable, production-ready systems** across web, mobile, data, and aut
 
 ---
 
-## 📄 Resume & Certifications
+## Resume & Certifications
 
 <p align="center">
   <a href="./docs/resume.pdf">
@@ -139,7 +139,7 @@ I build **scalable, production-ready systems** across web, mobile, data, and aut
 
 ---
 
-## 🧠 Workflow
+## Workflow
 
 <p align="center">
   <img src="./assets/workflow.png" width="80%" />
@@ -151,7 +151,7 @@ I build **scalable, production-ready systems** across web, mobile, data, and aut
 
 ---
 
-## 🎮 Future Direction
+## Future Direction
 
 * Game Development
 * Cloud Systems
@@ -160,7 +160,7 @@ I build **scalable, production-ready systems** across web, mobile, data, and aut
 
 ---
 
-## 🖼 Portfolio Gallery
+## Portfolio Gallery
 
 <p align="center">
   <img src="./assets/gallery-1.png" width="30%" />
@@ -175,7 +175,7 @@ I build **scalable, production-ready systems** across web, mobile, data, and aut
 
 ---
 
-## 📫 Contact
+## Contact
 
 * LinkedIn: https://www.linkedin.com/in/irish-mancera-040824256/
 * GitHub: https://github.com/IrishMancera
