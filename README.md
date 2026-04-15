@@ -157,9 +157,6 @@ I use analytics to turn raw information into structured outputs for reporting, m
   <a href="./docs/resume.pdf">
     <img src="./assets/resume-preview.png" width="45%" alt="Resume Preview" />
   </a>
-  <a href="./docs/certificate.pdf">
-    <img src="./assets/cert-preview.png" width="45%" alt="Certificate Preview" />
-  </a>
 </p>
 
 <p align="center">
