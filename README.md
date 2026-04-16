@@ -166,11 +166,17 @@ Long-term system support<br/>
 </div>
 
 
-
-# Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,python,php,cs,dotnet,js,ts,html,css,tailwind,aws,firebase,mysql,git,github,figma,vscode,postman" alt="Core Tech Stack" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,python,php,cs,dotnet,js,ts,html,css,tailwind,aws,firebase,git,github,figma,vscode,mysql" />
+  <img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Tableau-111111?style=for-the-badge&logo=tableau&logoColor=E97627" />
+  <img src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
+  <img src="https://img.shields.io/badge/SEMrush-111111?style=for-the-badge&logo=semrush&logoColor=FF642D" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-111111?style=for-the-badge&logo=googleworkspace&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/Shopify-111111?style=for-the-badge&logo=shopify&logoColor=7AB55C" />
 </p>
 
 <p align="center">
@@ -180,15 +186,17 @@ Long-term system support<br/>
 </p>
 
 
-## Live GitHub Analytics 
-
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=IrishMancera&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=IrishMancera&theme=tokyonight&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IrishMancera&bg_color=0B0607&color=39FF14&line=7C3AED&point=00FFC6&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="./assets/workflow.png" width="70%"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IrishMancera&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0607&title_color=39FF14&icon_color=7C3AED&text_color=ffffff" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrishMancera&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0607&title_color=39FF14&text_color=ffffff" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="./assets/workflow.png" width="100%"/>
 </p>
 
 
@@ -202,4 +210,7 @@ Long-term system support<br/>
   <a href="https://github.com/IrishMancera">
     <img src="https://skillicons.dev/icons?i=github"/>
   </a>
+</p>
+<p align="center">
+  <img src="./assets/footer_glow_ivm.gif" width="100%" alt="Footer" />
 </p>
