@@ -1,216 +1,217 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/animated_banner_ivm.gif" width="100%" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&text=Irish%20V.%20Mancera&fontSize=40&fontColor=7CFF6B&color=0:12070B,100:2A0F19" />
+<p align="center">
+  <img src="./assets/profile.png" width="150" />
+</p>
 
-<h2>Full Stack Developer • Mobile/PWA Builder • Systems-Oriented Tech Creative</h2>
+<h1 align="center">Irish V. Mancera</h1>
 
-<p><i>Building practical systems across web, mobile, automation, documentation, and digital workflows</i></p>
+<p align="center">
+  <strong>Full Stack Developer • Data & Systems Analyst • SEO Strategy</strong>
+</p>
 
-<p>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-7CFF6B?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+<p align="center">
+  Building scalable systems, dashboards, automation workflows, and decision-ready digital solutions.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=1000&lines=Systems+Builder;Full+Stack+%7C+Data+%7C+Cloud;Automation+%7C+Analytics;Real-world+impact+projects" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/irish-mancera-040824256/">
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-7CFF6B?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  <a href="./docs/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-39FF14?style=for-the-badge" />
   </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-7CFF6B?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-7CFF6B?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <a href="mailto:irishmancera267@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00FFC6?style=for-the-badge" />
   </a>
 </p>
 
-</div>
+---
+
+## 🧠 Enterprise Profile
+
+I build **production-ready systems** combining:
+
+* Full Stack Development
+* Data & Systems Analysis
+* Automation Workflows
+* Cloud Integration
 
 ---
 
-## ⚙️ System Identity
+# 🚀 Project Gallery (3-Column System View)
 
-> I build **practical systems** — not just apps.
-> From **PWA + Mobile apps → Automation → Documentation → Business workflows**
+<p align="center">
+  <img src="./assets/drmm-preview.png" width="30%" />
+  <img src="./assets/gufy-preview.png" width="30%" />
+  <img src="./assets/qr-preview.png" width="30%" />
+</p>
 
----
+<p align="center">
+  <img src="./assets/analytics-preview.png" width="30%" />
+  <img src="./assets/workflow.png" width="30%" />
+  <img src="./assets/gallery-1.png" width="30%" />
+</p>
 
-## 📬 Contact
-
-| 📧 Email                                                | 💼 LinkedIn                 | 🐙 GitHub               |
-| ------------------------------------------------------- | --------------------------- | ----------------------- |
-| [your.email@example.com](mailto:your.email@example.com) | linkedin.com/in/yourprofile | github.com/yourusername |
-
----
-
-## 👨‍💻 About Me
-
-IT Graduate (2025) focused on building **real-world, maintainable systems**.
-
-* Built **PWA + Flutter mobile applications**
-* Experienced in **QA testing, documentation, and automation**
-* Worked on **digital marketing workflows and e-commerce systems**
-* Strong in **system thinking, structure, and scalability**
+<p align="center">
+  <sub>
+  DRRM System • GUFY Smart Cards • QR Scanner • Analytics Systems • Workflow Engine • Portfolio Work
+  </sub>
+</p>
 
 ---
 
-## 🧠 Capability Evidence
+# 💼 Experience Matrix (Structured)
 
-| Area          | Proof                                           |
-| ------------- | ----------------------------------------------- |
-| Full Stack    | Built PWA + Flutter system as sole developer    |
-| Mobile        | Flutter Android student management app          |
-| QA & Testing  | UI testing, validation, structured QA processes |
-| Documentation | Created manuals and internal documentation      |
-| Automation    | Python automation scripts and sheet generator   |
-| E-commerce    | Shopify, TikTok Seller, stock tracking          |
+<table>
+<tr>
+<th>Preview</th>
+<th>Company</th>
+<th>Contribution & Features</th>
+</tr>
 
----
+<tr>
+<td><img src="./assets/drmm-preview.png" width="120"/></td>
+<td><strong>Bicol University</strong><br/>Junior Software Engineer</td>
+<td>
+• Built iBU DRRM System<br/>
+• Real-time advisory delivery<br/>
+• Flutter + Laravel + Firebase<br/>
+• API-driven notification system
+</td>
+</tr>
 
-## 🌌 Tech Stack
+<tr>
+<td><img src="./assets/gufy-preview.png" width="120"/></td>
+<td><strong>StraStan Solutions</strong><br/>Full Stack Intern</td>
+<td>
+• React + Next.js UI<br/>
+• AWS Lambda + API Gateway<br/>
+• CSV import/export<br/>
+• Lazy loading & UI optimization
+</td>
+</tr>
 
-### 💻 Programming
+<tr>
+<td><img src="./assets/gallery-2.png" width="120"/></td>
+<td><strong>StraStan</strong><br/>Marketing & Sales</td>
+<td>
+• 65 SEO blogs<br/>
+• 195 assets created<br/>
+• 360 leads generated<br/>
+• Campaign execution
+</td>
+</tr>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=.net\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+<tr>
+<td><img src="./assets/analytics-preview.png" width="120"/></td>
+<td><strong>Freelance</strong><br/>Developer</td>
+<td>
+• Python automation<br/>
+• Excel dashboards<br/>
+• Data workflows<br/>
+• Reporting systems
+</td>
+</tr>
 
-### 🧪 QA & Tools
+<tr>
+<td><img src="./assets/gallery-3.png" width="120"/></td>
+<td><strong>Independent Work</strong></td>
+<td>
+• System design thinking<br/>
+• Documentation<br/>
+• UI/UX workflows<br/>
+• Multi-stack integration
+</td>
+</tr>
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
-### 🛒 E-commerce
-
-![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge\&logo=amazon\&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge\&logo=shopify\&logoColor=white)
-![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)
-
-### 📈 Marketing & Tools
-
-![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge\&logo=semrush\&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
-
----
-
-## 💼 Experience
-
-### 🚀 Junior Full Stack Developer
-
-**Bicol University (BU-ICTO & BU-HRDRMO)**
-
-* Built PWA + Flutter mobile system (IBUDrrrm Project)
-* Handled frontend, backend, and database integration
-* Coordinated with internal stakeholders
-
-### 📈 Digital Marketing Trainee
-
-**Strastan**
-
-* Created AI-driven campaigns (email, blogs, social)
-* Performed campaign analysis and reporting
-
-### 🛍️ Virtual Assistant
-
-**Sogod Enterprises / VAAPhilippines**
-
-* Shopify & TikTok stock tracking
-* Data validation and reporting
-
-### 📝 Documentation Assistant
-
-**Ollopa Corporate (NRG-SIL)**
-
-* Created structured technical documentation
-
-### 💻 Fullstack Intern
-
-**Strastan / Bicol University Internship**
-
-* QA testing, training materials, version tracking
+</table>
 
 ---
 
-## 🚀 Featured Projects
+# Data & Analytics
 
-### 🔹 MicroSaaS Tools
 
-* QR Scanner, Image Compressor, Background Remover
-* **Stack:** React, Web APIs
-
-### 🔹 Python Automation Generator
-
-* Payroll tracking + workflow automation
-* **Stack:** Python
-
-### 🔹 .NET To-Do App
-
-* Task monitoring system
-* **Stack:** .NET, C#
-
-### 🔹 IBUDrrrm System
-
-* PWA + Flutter mobile system
-* **Stack:** React, Flutter
+<p align="center">
+  <strong>KPI Dashboards • Automation • Decision Support</strong>
+</p>
 
 ---
 
-## 🧠 System Thinking
+# 📈 Monthly Activity
 
-* Designed full-stack systems (frontend + backend + DB)
-* Built mobile + web integration (Flutter + PWA)
-* Structured workflows for real-world use
-* Focused on maintainability and documentation
-
----
-
-## 🏆 Achievements
-
-* CTRL 2025 – 5th Place (Software Showcase)
-* BITSCon 2024 – IT Congress Delegate
-* JobStart CoreSkills (2025)
+<p align="center">
+  <img src="./assets/monthly-activity.png" width="85%" />
+</p>
 
 ---
 
-## 📈 GitHub Analytics
+# 🛠 Tech Stack
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=radical\&bg_color=12070B\&title_color=7CFF6B\&text_color=F5EEE9)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername\&theme=radical\&background=12070B\&ring=7CFF6B)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=radical\&bg_color=12070B\&title_color=7CFF6B)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,python,aws,firebase,figma,git" />
+</p>
 
 ---
 
-## 💭 Philosophy
+# 📄 Resume & Certifications
 
-> Build systems that are **useful, maintainable, and scalable** — not just impressive.
-
----
-
-## 🚀 Let’s Build
-
-I’m open to:
-
-* Full Stack / Mobile roles
-* Freelance systems & automation work
-* Open-source collaboration
-
-📩 **[your.email@example.com](mailto:your.email@example.com)**
+<p align="center">
+  <a href="./docs/resume.pdf">
+    <img src="./assets/resume-preview.png" width="40%" />
+  </a>
+  <a href="./docs/certificate.pdf">
+    <img src="./assets/cert-preview.png" width="40%" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+# 🧠 Workflow
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=7CFF6B&style=for-the-badge"/>
+<p align="center">
+  <img src="./assets/workflow.png" width="70%" />
+</p>
 
-**⭐ From Irish V. Mancera**
+---
 
-</div>
+# Future Direction
+
+* Game Development
+* AI Systems
+* Cloud Platforms
+* Scalable Applications
+
+---
+
+#  Connect
+
+<p align="center">
+  <a href="mailto:irishmancera267@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/irish-mancera-040824256/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/IrishMancera">
+    <img src="https://skillicons.dev/icons?i=github" width="55"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Let’s build scalable systems together.</strong>
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/footer_glow_ivm.gif" width="100%" />
+</p>
