@@ -15,13 +15,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=1000&lines=Systems+Builder;Full+Stack+%7C+Data+%7C+Cloud;Automation+%7C+Analytics;Real-world+impact+projects" />
 </p>
 
+<p align="center">
 
-I build **production-ready systems** combining:
+I build <strong>production-ready systems</strong> combining:
 
-* Full Stack Development
-* Data & Systems Analysis
-* Automation Workflows
-* Cloud Integration
+</p>
+
+<p align="center">
+
+• Full Stack Development<br/>
+• Data & Systems Analysis<br/>
+• Automation Workflows<br/>
+• Cloud Integration
+
+</p>
+
 
 <p align="center">
   <img src="./assets/drmm-preview.png" width="30%" />
@@ -166,27 +174,16 @@ Long-term system support<br/>
 </p>
 
 
-# 🛠 Tech Stack
+# Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,python,aws,firebase,figma,git" />
-</p>
-
----
-
-# 📄 Resume & Certifications
-
-<p align="center">
-  <a href="./docs/resume.pdf">
-    <img src="./assets/resume-preview.png" width="40%" />
-  </a>
-  <a href="./docs/certificate.pdf">
-    <img src="./assets/cert-preview.png" width="40%" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,python,php,cs,dotnet,js,ts,html,css,tailwind,aws,firebase,git,github,figma,vscode,mysql" />
 </p>
 
 <p align="center">
-  <img src="./assets/workflow.png" width="70%" />
+  <strong>
+  Frontend • Backend • Mobile • Data • Cloud • Tools
+  </strong>
 </p>
 
 
