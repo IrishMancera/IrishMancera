@@ -15,17 +15,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=1000&lines=Systems+Builder;Full+Stack+%7C+Data+%7C+Cloud;Automation+%7C+Analytics;Real-world+impact+projects" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/irish-mancera-040824256/">
-    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="./docs/resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-39FF14?style=for-the-badge" />
-  </a>
-  <a href="mailto:irishmancera267@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00FFC6?style=for-the-badge" />
-  </a>
-</p>
 
 I build **production-ready systems** combining:
 
@@ -72,16 +61,16 @@ I build **production-ready systems** combining:
 <td valign="top">
 <strong>Bicol University</strong><br/>
 Junior Software Engineer<br/>
-<sub>📅 6 Months Contract</sub>
+<sub>6 Months Contract</sub>
 </td>
 <td valign="top">
-🚀 Built <strong>iBU DRRM System</strong><br/>
+Built <strong>iBU DRRM System</strong><br/>
 • Real-time advisory delivery system<br/>
 • Flutter + Laravel + Firebase integration<br/>
 • API-driven notification workflows<br/>
 • Emergency communication system design<br/>
 <br/>
-🧠 <strong>Impact:</strong> Enabled structured real-time campus alerts
+<strong>Impact:</strong> Enabled structured real-time campus alerts
 </td>
 </tr>
 
@@ -92,7 +81,7 @@ Junior Software Engineer<br/>
 <td valign="top">
 <strong>StraStan Solutions</strong><br/>
 Full Stack Intern (AWS)<br/>
-<sub>📅 6 Months</sub>
+<sub>6 Months</sub>
 </td>
 <td valign="top">
 ⚙️ Full-stack system development<br/>
@@ -101,7 +90,7 @@ Full Stack Intern (AWS)<br/>
 • CSV import/export systems<br/>
 • Performance optimization (lazy loading)<br/>
 <br/>
-📈 <strong>Impact:</strong> Improved system performance & data workflows
+<strong>Impact:</strong> Improved system performance & data workflows
 </td>
 </tr>
 
@@ -112,16 +101,16 @@ Full Stack Intern (AWS)<br/>
 <td valign="top">
 <strong>StraStan Solutions</strong><br/>
 Sales & Marketing Trainee<br/>
-<sub>📅 3 Months</sub>
+<sub>3 Months</sub>
 </td>
 <td valign="top">
-📊 Digital marketing operations<br/>
+Digital marketing operations<br/>
 • 65 SEO blogs produced<br/>
 • 195 marketing assets created<br/>
 • 360 leads generated<br/>
 • Campaign execution & reporting<br/>
 <br/>
-📈 <strong>Impact:</strong> Strengthened digital growth pipeline
+<strong>Impact:</strong> Strengthened digital growth pipeline
 </td>
 </tr>
 
@@ -132,15 +121,15 @@ Sales & Marketing Trainee<br/>
 <td valign="top">
 <strong>Ollopa Corporation</strong><br/>
 Documentation & Game Dev (TESDA NRG)<br/>
-<sub>📅 4 Months</sub>
+<sub> 4 Months</sub>
 </td>
 <td valign="top">
-🎮 Documentation & system design<br/>
+Documentation & system design<br/>
 • Created Game Design Documents (GDD)<br/>
 • Structured technical documentation<br/>
 • Supported game workflow systems<br/>
 <br/>
-🧠 <strong>Impact:</strong> Improved system planning & documentation clarity
+<strong>Impact:</strong> Improved system planning & documentation clarity
 </td>
 </tr>
 
@@ -151,16 +140,16 @@ Documentation & Game Dev (TESDA NRG)<br/>
 <td valign="top">
 <strong>Sogod Enterprises</strong><br/>
 Freelance Developer / VA / Analyst<br/>
-<sub>📅 5+ Years</sub>
+<sub>5+ Years</sub>
 </td>
 <td valign="top">
-🧩 Long-term system support<br/>
+Long-term system support<br/>
 • Python automation systems<br/>
 • Excel dashboards & reporting<br/>
 • Documentation & VA workflows<br/>
 • Web & business system support<br/>
 <br/>
-🔥 <strong>Impact:</strong> Delivered continuous business automation & insights
+<strong>Impact:</strong> Delivered continuous business automation & insights
 </td>
 </tr>
 
@@ -219,7 +208,6 @@ Freelance Developer / VA / Analyst<br/>
   <strong>Let’s build scalable systems together.</strong>
 </p>
 
----
 
 <p align="center">
   <img src="./assets/footer_glow_ivm.gif" width="100%" />
