@@ -27,20 +27,12 @@
   </a>
 </p>
 
----
-
-## 🧠 Enterprise Profile
-
 I build **production-ready systems** combining:
 
 * Full Stack Development
 * Data & Systems Analysis
 * Automation Workflows
 * Cloud Integration
-
----
-
-# 🚀 Project Gallery (3-Column System View)
 
 <p align="center">
   <img src="./assets/drmm-preview.png" width="30%" />
@@ -62,7 +54,7 @@ I build **production-ready systems** combining:
 
 ---
 
-# 💼 Experience Matrix (Structured)
+# Work Experience
 
 <table>
 <tr>
@@ -128,10 +120,8 @@ I build **production-ready systems** combining:
 
 </table>
 
----
 
 # Data & Analytics
-
 
 <p align="center">
   <strong>KPI Dashboards • Automation • Decision Support</strong>
@@ -139,13 +129,6 @@ I build **production-ready systems** combining:
 
 ---
 
-# 📈 Monthly Activity
-
-<p align="center">
-  <img src="./assets/monthly-activity.png" width="85%" />
-</p>
-
----
 
 # 🛠 Tech Stack
 
@@ -174,18 +157,6 @@ I build **production-ready systems** combining:
   <img src="./assets/workflow.png" width="70%" />
 </p>
 
----
-
-# Future Direction
-
-* Game Development
-* AI Systems
-* Cloud Platforms
-* Scalable Applications
-
----
-
-#  Connect
 
 <p align="center">
   <a href="mailto:irishmancera267@gmail.com">
