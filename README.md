@@ -224,15 +224,32 @@ I use analytics to turn raw operational data into structured outputs for reporti
 
 ---
 
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/irish-mancera-040824256/
-- GitHub: https://github.com/IrishMancera
-- Email: [irishmancera267@gmail.com](mailto:irishmancera267@gmail.com)
-
+## Connect With Me
 
 <p align="center">
-  <img src="./assets/profile.png" width="180" alt="Irish V. Mancera Profile" />
+  <a href="mailto:irishmancera267@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/irish-mancera-040824256/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/IrishMancera">
+    <img src="https://skillicons.dev/icons?i=github" width="60" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Let’s build systems, dashboards, and scalable solutions together.</strong>
+</p>
+
+<p align="center">
+  <sub>Open to opportunities in Full Stack Development, Data & Systems Analysis, and Automation Engineering</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/profile.png" width="100%" alt="Irish V. Mancera Profile" />
 </p>
 
 <p align="center">
