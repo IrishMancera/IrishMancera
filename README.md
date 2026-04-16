@@ -2,11 +2,6 @@
   <img src="./assets/animated_banner_ivm.gif" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./assets/profile.png" width="150" />
-</p>
-
-<h1 align="center">Irish V. Mancera</h1>
 
 <p align="center">
   <strong>Full Stack Developer • Data & Systems Analyst • SEO Strategy</strong>
