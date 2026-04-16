@@ -28,22 +28,6 @@
 
 
 <p align="center">
-
-I build <strong>production-ready systems</strong> combining:
-
-</p>
-
-<p align="center">
-
-• Full Stack Development<br/>
-• Data & Systems Analysis<br/>
-• Automation Workflows<br/>
-• Cloud Integration
-
-</p>
-
-
-<p align="center">
   <img src="./assets/drmm-preview.png" width="30%" />
   <img src="./assets/gufy-preview.png" width="30%" />
   <img src="./assets/qr-preview.png" width="30%" />
