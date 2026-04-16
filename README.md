@@ -2,10 +2,6 @@
   <img src="./assets/animated_banner_ivm.gif" width="100%" alt="Irish V. Mancera Banner" />
 </p>
 
-<p align="center">
-  <img src="./assets/profile.png" width="180" alt="Irish V. Mancera Profile" />
-</p>
-
 <h1 align="center">Irish V. Mancera</h1>
 
 <p align="center">
@@ -235,6 +231,11 @@ I use analytics to turn raw operational data into structured outputs for reporti
 - LinkedIn: https://www.linkedin.com/in/irish-mancera-040824256/
 - GitHub: https://github.com/IrishMancera
 - Email: [irishmancera267@gmail.com](mailto:irishmancera267@gmail.com)
+
+
+<p align="center">
+  <img src="./assets/profile.png" width="180" alt="Irish V. Mancera Profile" />
+</p>
 
 <p align="center">
   <img src="./assets/footer_glow_ivm.gif" width="100%" alt="Footer" />
