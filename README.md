@@ -167,13 +167,6 @@ Long-term system support<br/>
 
 
 
-# Data & Analytics
-
-<p align="center">
-  <strong>KPI Dashboards • Automation • Decision Support</strong>
-</p>
-
-
 # Tech Stack
 
 <p align="center">
@@ -193,12 +186,6 @@ Long-term system support<br/>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=IrishMancera&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=IrishMancera&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrishMancera&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-## System Thinking Flow
 
 <p align="center">
   <img src="./assets/workflow.png" width="70%"/>
