@@ -2,8 +2,6 @@
   <img src="./assets/animated_banner_ivm.gif" width="100%" alt="Irish V. Mancera Banner" />
 </p>
 
-<h1 align="center">Irish V. Mancera</h1>
-
 <p align="center">
   <strong>Full Stack Developer • Data &amp; Systems Analyst • SEO Strategy</strong>
 </p>
