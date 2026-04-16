@@ -198,29 +198,6 @@ Long-term system support<br/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrishMancera&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## Core Skills (Compact View)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,python,php,cs,dotnet,js,ts,aws,firebase,mysql,figma,git" />
-</p>
-
-
-## nteractive / Game Systems (Portfolio Edge)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Game%20Dev-39FF14?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Design-00FFC6?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  🎯 Building interactive systems using logic, UI flow, and event-driven architecture  
-  🧠 Inspired by real-world systems → applied into game mechanics  
-</p>
-
----
-
 ## System Thinking Flow
 
 <p align="center">
