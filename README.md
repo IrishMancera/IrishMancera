@@ -63,7 +63,6 @@ I build <strong>production-ready systems</strong> combining:
 
 ---
 
-## Work Experience
 
 <div align="center">
 
