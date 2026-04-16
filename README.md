@@ -186,26 +186,131 @@ Long-term system support<br/>
   </strong>
 </p>
 
+## 🚀 Capability Dashboard
 
 <p align="center">
-  <a href="mailto:irishmancera267@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-  </a>
-  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Full%20Stack-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analyst-00FFC6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-FF4D6D?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics (Live)
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=IrishMancera&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=IrishMancera&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrishMancera&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Core Skills (Compact View)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,python,php,cs,dotnet,js,ts,aws,firebase,mysql,figma,git" />
+</p>
+
+---
+
+## 💼 Experience Overview (1-ROW TABLE)
+
+<table align="center" width="100%">
+<tr>
+<td align="center"><b>Bicol University</b><br/>Junior Software Engineer</td>
+<td align="center"><b>StraStan</b><br/>Full Stack Intern</td>
+<td align="center"><b>StraStan</b><br/>Marketing</td>
+<td align="center"><b>Sogod Enterprises</b><br/>Freelance (5 yrs)</td>
+<td align="center"><b>Ollopa + TESDA</b><br/>Game Dev</td>
+</tr>
+
+<tr>
+<td><img src="./assets/drmm-preview.png" width="100%"/></td>
+<td><img src="./assets/gufy-preview.png" width="100%"/></td>
+<td><img src="./assets/gallery-2.png" width="100%"/></td>
+<td><img src="./assets/analytics-preview.png" width="100%"/></td>
+<td><img src="./assets/gallery-3.png" width="100%"/></td>
+</tr>
+
+<tr>
+<td>
+• DRRM System<br/>
+• Flutter + Laravel<br/>
+• Real-time alerts
+</td>
+<td>
+• React + Next.js<br/>
+• AWS Lambda<br/>
+• CSV + UI optimization
+</td>
+<td>
+• 65 SEO blogs<br/>
+• 195 assets<br/>
+• 360 leads
+</td>
+<td>
+• Python automation<br/>
+• Excel dashboards<br/>
+• Reporting systems
+</td>
+<td>
+• Game systems<br/>
+• GDD + mechanics<br/>
+• Logic design
+</td>
+</tr>
+</table>
+
+---
+
+## 🎮 Interactive / Game Systems (Portfolio Edge)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Game%20Dev-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-00FFC6?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  🎯 Building interactive systems using logic, UI flow, and event-driven architecture  
+  🧠 Inspired by real-world systems → applied into game mechanics  
+</p>
+
+---
+
+## System Thinking Flow
+
+<p align="center">
+  <img src="./assets/workflow.png" width="70%"/>
+</p>
+
+<p align="center">
+  <b>Define → Analyze → Build → Automate → Optimize</b>
+</p>
+
+---
+
+##  Featured Systems (Compact Grid)
+
+<p align="center">
+  <img src="./assets/drmm-preview.png" width="32%"/>
+  <img src="./assets/gufy-preview.png" width="32%"/>
+  <img src="./assets/qr-preview.png" width="32%"/>
+</p>
+
+
+<p align="center">
   <a href="https://www.linkedin.com/in/irish-mancera-040824256/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  &nbsp;&nbsp;
+  <a href="mailto:irishmancera267@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
   <a href="https://github.com/IrishMancera">
-    <img src="https://skillicons.dev/icons?i=github" width="55"/>
+    <img src="https://skillicons.dev/icons?i=github"/>
   </a>
-</p>
-
-<p align="center">
-  <strong>Let’s build scalable systems together.</strong>
-</p>
-
-
-<p align="center">
-  <img src="./assets/footer_glow_ivm.gif" width="100%" />
 </p>
