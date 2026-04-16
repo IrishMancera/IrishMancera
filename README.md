@@ -6,6 +6,17 @@
 <p align="center">
   <strong>Full Stack Developer • Data & Systems Analyst • SEO Strategy</strong>
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/irish-mancera-040824256/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="mailto:irishmancera267@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://github.com/IrishMancera">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+</p>
 
 <p align="center">
   Building scalable systems, dashboards, automation workflows, and decision-ready digital solutions.
@@ -200,17 +211,7 @@ Long-term system support<br/>
 </p>
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/irish-mancera-040824256/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="mailto:irishmancera267@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-  <a href="https://github.com/IrishMancera">
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
-</p>
+
 <p align="center">
   <img src="./assets/footer_glow_ivm.gif" width="100%" alt="Footer" />
 </p>
