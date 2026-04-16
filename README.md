@@ -54,71 +54,120 @@ I build **production-ready systems** combining:
 
 ---
 
-# Work Experience
+## Work Experience
 
-<table>
+<div align="center">
+
+<table width="100%">
 <tr>
-<th>Preview</th>
-<th>Company</th>
-<th>Contribution & Features</th>
+<th width="20%">Preview</th>
+<th width="30%">Role & Company</th>
+<th width="50%">Impact • Systems • Contributions</th>
 </tr>
 
 <tr>
-<td><img src="./assets/drmm-preview.png" width="120"/></td>
-<td><strong>Bicol University</strong><br/>Junior Software Engineer</td>
-<td>
-• Built iBU DRRM System<br/>
-• Real-time advisory delivery<br/>
-• Flutter + Laravel + Firebase<br/>
-• API-driven notification system
+<td align="center" valign="middle">
+<img src="./assets/drmm-preview.png" width="140"/>
+</td>
+<td valign="top">
+<strong>Bicol University</strong><br/>
+Junior Software Engineer<br/>
+<sub>📅 6 Months Contract</sub>
+</td>
+<td valign="top">
+🚀 Built <strong>iBU DRRM System</strong><br/>
+• Real-time advisory delivery system<br/>
+• Flutter + Laravel + Firebase integration<br/>
+• API-driven notification workflows<br/>
+• Emergency communication system design<br/>
+<br/>
+🧠 <strong>Impact:</strong> Enabled structured real-time campus alerts
 </td>
 </tr>
 
 <tr>
-<td><img src="./assets/gufy-preview.png" width="120"/></td>
-<td><strong>StraStan Solutions</strong><br/>Full Stack Intern</td>
-<td>
-• React + Next.js UI<br/>
-• AWS Lambda + API Gateway<br/>
-• CSV import/export<br/>
-• Lazy loading & UI optimization
+<td align="center" valign="middle">
+<img src="./assets/gufy-preview.png" width="140"/>
+</td>
+<td valign="top">
+<strong>StraStan Solutions</strong><br/>
+Full Stack Intern (AWS)<br/>
+<sub>📅 6 Months</sub>
+</td>
+<td valign="top">
+⚙️ Full-stack system development<br/>
+• React + Next.js UI development<br/>
+• AWS Lambda + API Gateway + DynamoDB<br/>
+• CSV import/export systems<br/>
+• Performance optimization (lazy loading)<br/>
+<br/>
+📈 <strong>Impact:</strong> Improved system performance & data workflows
 </td>
 </tr>
 
 <tr>
-<td><img src="./assets/gallery-2.png" width="120"/></td>
-<td><strong>StraStan</strong><br/>Marketing & Sales</td>
-<td>
-• 65 SEO blogs<br/>
-• 195 assets created<br/>
+<td align="center" valign="middle">
+<img src="./assets/gallery-2.png" width="140"/>
+</td>
+<td valign="top">
+<strong>StraStan Solutions</strong><br/>
+Sales & Marketing Trainee<br/>
+<sub>📅 3 Months</sub>
+</td>
+<td valign="top">
+📊 Digital marketing operations<br/>
+• 65 SEO blogs produced<br/>
+• 195 marketing assets created<br/>
 • 360 leads generated<br/>
-• Campaign execution
+• Campaign execution & reporting<br/>
+<br/>
+📈 <strong>Impact:</strong> Strengthened digital growth pipeline
 </td>
 </tr>
 
 <tr>
-<td><img src="./assets/analytics-preview.png" width="120"/></td>
-<td><strong>Freelance</strong><br/>Developer</td>
-<td>
-• Python automation<br/>
-• Excel dashboards<br/>
-• Data workflows<br/>
-• Reporting systems
+<td align="center" valign="middle">
+<img src="./assets/gallery-3.png" width="140"/>
+</td>
+<td valign="top">
+<strong>Ollopa Corporation</strong><br/>
+Documentation & Game Dev (TESDA NRG)<br/>
+<sub>📅 4 Months</sub>
+</td>
+<td valign="top">
+🎮 Documentation & system design<br/>
+• Created Game Design Documents (GDD)<br/>
+• Structured technical documentation<br/>
+• Supported game workflow systems<br/>
+<br/>
+🧠 <strong>Impact:</strong> Improved system planning & documentation clarity
 </td>
 </tr>
 
 <tr>
-<td><img src="./assets/gallery-3.png" width="120"/></td>
-<td><strong>Independent Work</strong></td>
-<td>
-• System design thinking<br/>
-• Documentation<br/>
-• UI/UX workflows<br/>
-• Multi-stack integration
+<td align="center" valign="middle">
+<img src="./assets/analytics-preview.png" width="140"/>
+</td>
+<td valign="top">
+<strong>Sogod Enterprises</strong><br/>
+Freelance Developer / VA / Analyst<br/>
+<sub>📅 5+ Years</sub>
+</td>
+<td valign="top">
+🧩 Long-term system support<br/>
+• Python automation systems<br/>
+• Excel dashboards & reporting<br/>
+• Documentation & VA workflows<br/>
+• Web & business system support<br/>
+<br/>
+🔥 <strong>Impact:</strong> Delivered continuous business automation & insights
 </td>
 </tr>
 
 </table>
+
+</div>
+
 
 
 # Data & Analytics
