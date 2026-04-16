@@ -127,8 +127,6 @@ I build **production-ready systems** combining:
   <strong>KPI Dashboards • Automation • Decision Support</strong>
 </p>
 
----
-
 
 # 🛠 Tech Stack
 
@@ -148,10 +146,6 @@ I build **production-ready systems** combining:
     <img src="./assets/cert-preview.png" width="40%" />
   </a>
 </p>
-
----
-
-# 🧠 Workflow
 
 <p align="center">
   <img src="./assets/workflow.png" width="70%" />
