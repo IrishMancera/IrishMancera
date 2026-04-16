@@ -179,17 +179,6 @@ Long-term system support<br/>
 </div>
 
 
-
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IrishMancera&bg_color=0B0607&color=39FF14&line=7C3AED&point=00FFC6&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IrishMancera&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0607&title_color=39FF14&icon_color=7C3AED&text_color=ffffff" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrishMancera&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0607&title_color=39FF14&text_color=ffffff" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="./assets/workflow.png" width="100%"/>
 </p>
