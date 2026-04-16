@@ -62,6 +62,24 @@ I build <strong>production-ready systems</strong> combining:
 </p>
 
 ---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,python,php,cs,dotnet,js,ts,html,css,tailwind,aws,firebase,mysql,git,github,figma,vscode,postman" alt="Core Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Tableau-111111?style=for-the-badge&logo=tableau&logoColor=E97627" />
+  <img src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
+  <img src="https://img.shields.io/badge/SEMrush-111111?style=for-the-badge&logo=semrush&logoColor=FF642D" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-111111?style=for-the-badge&logo=googleworkspace&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/Shopify-111111?style=for-the-badge&logo=shopify&logoColor=7AB55C" />
+</p>
+
+<p align="center">
+  <strong>
+  Frontend • Backend • Mobile • Data • Cloud • Tools
+  </strong>
+</p>
 
 
 <div align="center">
@@ -177,24 +195,6 @@ Long-term system support<br/>
 </div>
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,python,php,cs,dotnet,js,ts,html,css,tailwind,aws,firebase,mysql,git,github,figma,vscode,postman" alt="Core Tech Stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-  <img src="https://img.shields.io/badge/Tableau-111111?style=for-the-badge&logo=tableau&logoColor=E97627" />
-  <img src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
-  <img src="https://img.shields.io/badge/SEMrush-111111?style=for-the-badge&logo=semrush&logoColor=FF642D" />
-  <img src="https://img.shields.io/badge/Google%20Workspace-111111?style=for-the-badge&logo=googleworkspace&logoColor=4285F4" />
-  <img src="https://img.shields.io/badge/Shopify-111111?style=for-the-badge&logo=shopify&logoColor=7AB55C" />
-</p>
-
-<p align="center">
-  <strong>
-  Frontend • Backend • Mobile • Data • Cloud • Tools
-  </strong>
-</p>
 
 
 <p align="center">
